@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-grabacion-de-voz-e-instrumentos.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Grabación de voz e instrumentos | Lynx Pardelle",
+    "description": "Sigue el recorrido de la señal desde la entrada de audio hasta la pista. Aprende a preparar tu sesión, hacer una toma y escuchar cómo el espacio y el nivel de entrada afectan la grabación.",
+    "canonical": "https://masterclass-grabacion-de-voz-e-instrumentos.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-grabacion-voz.webp"
+    }
+  }
+}
