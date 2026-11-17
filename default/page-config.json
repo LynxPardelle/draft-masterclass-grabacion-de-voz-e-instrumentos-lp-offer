@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Grabación de voz e instrumentos | Lynx Pardelle",
-    "description": "Sigue el recorrido de la señal desde la entrada de audio hasta la pista. Aprende a preparar tu sesión, hacer una toma y escuchar cómo el espacio y el nivel de entrada afectan la grabación.",
+    "title": "Masterclass de grabación de voz e instrumentos | Lynx Pardelle",
+    "description": "Prepara un canal de audio, registra una toma y edita muestras. Masterclass de 2 a 3 horas sobre acústica básica, ruteo y técnicas de grabación.",
     "canonical": "https://masterclass-grabacion-de-voz-e-instrumentos.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-grabacion-de-voz-e-instrumentos-r2-247dbf5b5bd046fd.webp",
+      "title": "Masterclass de grabación de voz e instrumentos | Lynx Pardelle",
+      "description": "Prepara un canal de audio, registra una toma y edita muestras. Masterclass de 2 a 3 horas sobre acústica básica, ruteo y técnicas de grabación.",
+      "url": "https://masterclass-grabacion-de-voz-e-instrumentos.music.lynxpardelle.com/",
+      "imageAlt": "Micrófono con filtro antipop y guitarra acústica en cabina."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de grabación de voz e instrumentos | Lynx Pardelle",
+      "description": "Prepara un canal de audio, registra una toma y edita muestras. Masterclass de 2 a 3 horas sobre acústica básica, ruteo y técnicas de grabación.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-grabacion-de-voz-e-instrumentos-r2-247dbf5b5bd046fd.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-grabacion-de-voz-e-instrumentos.music.lynxpardelle.com/#webpage",
+        "name": "Grabación de voz e instrumentos",
+        "description": "Prepara un canal de audio, registra una toma y edita muestras. Masterclass de 2 a 3 horas sobre acústica básica, ruteo y técnicas de grabación.",
+        "url": "https://masterclass-grabacion-de-voz-e-instrumentos.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-grabacion-de-voz-e-instrumentos.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-grabacion-de-voz-e-instrumentos.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Grabación de voz e instrumentos",
+        "description": "Prepara un canal de audio, registra una toma y edita muestras. Masterclass de 2 a 3 horas sobre acústica básica, ruteo y técnicas de grabación.",
+        "url": "https://masterclass-grabacion-de-voz-e-instrumentos.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-grabacion-de-voz-e-instrumentos-r2-247dbf5b5bd046fd.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-grabacion-de-voz-e-instrumentos.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
